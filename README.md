@@ -2,6 +2,8 @@
 Installer of magzimu . You should first clone this. this automatic make magzimu shell install. BY BlackUnix
 Just do this :
 # $ git clone https://github.com/black-unix/magzimuinstaller.git
+# $ cd magzimuinstaller
+# $ python3 magzinstaller.py
 Then choose your terminal (1=TERMINAL LINUX . 2=TERMUX)
 # when installing finished go in magzimu file using CD
 # Then do python3 magzimu.py
